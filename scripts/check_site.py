@@ -58,6 +58,10 @@ for route, path in list(routes.items()):
                 errors.append(f"{route}: missing anchor {link}")
         elif parsed.path not in routes and not (ROOT / parsed.path.lstrip("/")).is_file():
             errors.append(f"{route}: missing local destination {link}")
+        elif parsed.fragment and parsed.path in routes:
+            destination = Page(routes[parsed.path].read_text(encoding="utf-8"))
+            if unquote(parsed.fragment) not in destination.ids:
+                errors.append(f"{route}: missing destination anchor {link}")
 
 study_nav = Page((ROOT / "_includes/site-nav.html").read_text(encoding="utf-8"))
 if study_nav.current != ["/quotes/"]:

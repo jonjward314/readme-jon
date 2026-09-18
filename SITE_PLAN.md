@@ -3,9 +3,13 @@
 Five-page site for GitHub Pages, with Favorite Quotes awaiting selections.
 
 ## Home
-- Engineer. Writer. Systems thinker.
-- Explore.
-- Start a conversation.
+- The compressed version is misleading.
+- Stay with the question.
+- An incomplete index.
+
+The revised local design uses a notebook layout with a contents rail, marginal
+notes, and expandable questions that link to relevant sections on other pages.
+This redesign was approved for publication after local visual review.
 
 ## About
 - The mind behind the work.
@@ -42,8 +46,9 @@ source files are retained locally and excluded from the GitHub Pages build.
 
 ## Design and behavior
 - Five directly addressable pages with consistent navigation and current-page state.
-- Dark green, cream, and warm accent colors; readable prose and larger headings.
-- Responsive cards and reading layouts, expandable project details, and a mobile menu.
+- Ink-dark background, warm paper text, and restrained brass accents.
+- Literary serif typography, compact navigation, marginal notes, and ruled indexes.
+- Responsive reading layouts, expandable questions and project details, and a mobile menu.
 - A Discord username copy button with success and failure feedback.
 - Keyboard focus, skip links, reduced-motion support, and usable navigation without JavaScript.
 - Study source files retained locally, excluded from publication.
