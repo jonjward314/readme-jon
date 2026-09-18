@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "songs",
+      "title": "Songs",
+      "description": "Individual tracks and what they mean to me.",
+      "entries": []
+    },
+    {
+      "id": "albums",
+      "title": "Albums",
+      "description": "Records worth spending time with.",
+      "entries": []
+    }
+  ]
+}

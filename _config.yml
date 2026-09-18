@@ -17,4 +17,5 @@ exclude:
   - archive
   - scripts
   - SITE_PLAN.md
+  - AGENTS.md
   - study

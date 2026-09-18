@@ -1,11 +1,11 @@
-"""Check the five public pages and their local links."""
+"""Check the public pages and their local links."""
 from html.parser import HTMLParser
 from pathlib import Path
 from urllib.parse import urlsplit, unquote
 
 ROOT = Path(__file__).resolve().parents[1]
 PAGES = ["index.html", "about/index.html", "projects/index.html",
-         "quotes/index.html", "contact/index.html"]
+         "methods/index.html", "quotes/index.html", "movies/index.html", "music/index.html", "contact/index.html"]
 
 
 class Page(HTMLParser):
