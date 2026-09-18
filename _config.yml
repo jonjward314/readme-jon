@@ -1,0 +1,20 @@
+# jon.wardtechnet.com — GitHub Pages / Jekyll
+# Main HTML pages have no front matter, so Jekyll copies them through untouched.
+# Only files WITH front matter are rendered.
+
+title: "jon.wardtechnet.com"
+description: "Jon — engineer, writer, systems thinker. Software, favorite quotes, and questions worth asking."
+url: "https://jon.wardtechnet.com"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - .claude
+  - README.md
+  - archive
+  - scripts
+  - SITE_PLAN.md
+  - study

@@ -28,6 +28,8 @@ A lot of my free time goes into talking with people—often students, younger en
 
 I don't particularly want an audience. I'd rather be useful to one actual person.
 
+Useful can be very ordinary: explaining an unfamiliar process, working through the next step, or checking back to see whether the thing actually got easier. I like turning what I have learned into something another person can use. Ideally, they leave with more room to act for themselves.
+
 ## How I think
 
 **Parallel.** I keep several models alive at once. Subjects do not wait politely in separate queues, and they frequently exchange information.
@@ -37,6 +39,10 @@ I don't particularly want an audience. I'd rather be useful to one actual person
 **Translational.** I move between abstraction and implementation easily. A philosophical problem may become an engineering metaphor. An engineering failure may reveal a human one.
 
 **Attentive.** I notice wording, exceptions, odd details, and the sentence that does not quite fit. The anomaly is often where the useful information is hiding.
+
+**Practical.** I want an explanation to lead somewhere. What can we try? What is the next step? A good model should help someone do something with the problem in front of them.
+
+**Deliberate.** When the words matter, I like to write them down. Writing gives me time to examine what I mean, notice where I am being unfair, and leave room for a thoughtful response.
 
 ## Things I keep circling
 
@@ -54,17 +60,22 @@ People included.
 
 Perhaps especially people.
 
+Human agency matters to me in everyday life, too. I want people to have the information and space to make their own choices, including choices I would not make. When I offer help, that is the standard I want it to meet.
+
+I care about how an argument treats the person on the other end of it. Precision, patience, and basic kindness belong in the same conversation. I want to be able to hold a conviction, hear a difficult answer, and take responsibility when I get something wrong.
+
 ## Conversation protocol
 
 1. **Bring the real question.** The one underneath the polite version is usually more interesting.
 2. **Disagree cleanly.** I am not looking for agreement. I am looking for enough precision that we can locate the actual disagreement.
-3. **Do not simplify yourself for me.** Technical, strange, unfinished, contradictory, niche—I would rather have the high-resolution version.
-4. **Ask for help if I can actually help.** Computers, AI, software, manufacturing, technical careers, or simply figuring out what question you should be asking.
-5. **Rabbit holes are permitted.** There is a non-zero chance your original question will eventually become philosophy. This is considered normal operation.
+3. **Give the answer room.** Some questions deserve a pause or a longer written reply. I care more about understanding what you mean than how quickly you can say it.
+4. **Do not simplify yourself for me.** Technical, strange, unfinished, contradictory, niche—I would rather have the high-resolution version.
+5. **Ask for help if I can actually help.** Computers, AI, software, manufacturing, technical careers, or simply figuring out what question you should be asking.
+6. **Rabbit holes are permitted.** There is a non-zero chance your original question will eventually become philosophy. This is considered normal operation.
 
 ## Compressed truth
 
-> For a long time I assumed everyone else was doing roughly the same amount of processing and simply talking about less of it. I no longer think that is true.
+> I want to understand things deeply enough to be useful, and stay curious enough to keep learning from the people I am trying to help.
 
 Speed by itself is cheap. The useful part is holding several models at once, moving between them, noticing when unrelated problems share a structure, and staying with a question long enough for the easy answer to become unsatisfying.
 
